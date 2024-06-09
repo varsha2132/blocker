@@ -2,7 +2,7 @@ import time
 
 # Define the configuration
 host_path = r"C:\Windows\System32\drivers\etc\hosts"
-web_sites_list = ["www.facebook.com", "facebook.com"]
+website_list=["instagram.com","spankbang.com"]
 redirect = "127.0.0.1"
 
 # Open the hosts file and read its contents
